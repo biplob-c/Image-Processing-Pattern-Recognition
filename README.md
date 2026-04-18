@@ -132,10 +132,13 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
-## 5. 
-
 
 # Pattern-Recognition Sessional:
-BUET - 2020
+- https://www.kaggle.com/code/biplobc/lab-01-pattern-recognition
+- https://www.kaggle.com/code/biplobc/lab-03-cats-and-dogs-classi-image-processing
+- https://www.kaggle.com/code/biplobc/lab-04-pca-dimentionality-reduction
+- https://www.kaggle.com/code/biplobc/lab-02-k-medoid-clustering-algorithm/edit
+- https://www.kaggle.com/code/biplobc/k-nn-class-classification
+
 
 https://github.com/Tanjim131/CSE-474-Pattern-Recognition-Sessional/blob/main/Channel%20Equalization/Channel%20Equalization.pdf
